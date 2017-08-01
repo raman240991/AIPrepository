@@ -1,21 +1,9 @@
-C
-C
-DR
-DM
-B
 
-Merge conflict by Raman
-COnfilct
-=======
+Resolve Merge conflict by Raman
 
-C
-C
 Conflict 
 Conflict
 
-B
-
->>>>>>> d83482cd4d0570bf657ca204ad6e99ba8c95808b
 Hello World
 Inserted a new line
 Darshan
